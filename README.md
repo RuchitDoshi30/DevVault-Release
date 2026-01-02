@@ -12,9 +12,6 @@
   <a href="https://github.com/RuchitDoshi30/DevVault/releases">
     <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version">
   </a>
-  <a href="https://github.com/RuchitDoshi30/DevVault/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
-  </a>
   <a href="https://github.com/RuchitDoshi30/DevVault">
     <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Android-lightgrey.svg" alt="Platform">
   </a>
