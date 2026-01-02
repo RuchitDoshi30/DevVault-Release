@@ -55,33 +55,8 @@
 ## 🛠️ Tech Stack
 
 - **Framework:** Flutter 3.38+
-- **Language:** Dart 3.10+
 - **Database:** SQLite (Drift)
 - **State Management:** Riverpod
-- **Search:** FuzzyWuzzy algorithm
-
-## 🏗️ Building from Source
-
-```bash
-# Clone the repository
-git clone https://github.com/RuchitDoshi30/DevVault.git
-cd DevVault
-
-# Install dependencies
-flutter pub get
-
-# Generate database code
-dart run build_runner build
-
-# Run the app
-flutter run
-
-# Build for Windows
-flutter build windows --release
-
-# Build for Android
-flutter build apk --release
-```
 
 ## 🤝 Contributing
 
