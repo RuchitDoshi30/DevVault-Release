@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/RuchitDoshi30/DevVault/releases">
-    <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version">
+    <img src="https://img.shields.io/badge/version-1.1.0-blue.svg" alt="Version">
   </a>
   <a href="https://github.com/RuchitDoshi30/DevVault">
     <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Android-lightgrey.svg" alt="Platform">
@@ -46,8 +46,8 @@
 
 | Platform | Download |
 |----------|----------|
-| 🪟 **Windows** | [DevVault-v1.0.0-Setup.exe](https://github.com/RuchitDoshi30/DevVault/releases) |
-| 🤖 **Android** | [DevVault-v1.0.0-android.apk](https://github.com/RuchitDoshi30/DevVault/releases) |
+| 🪟 **Windows** | [DevVault-v1.1.0-Setup.exe](https://github.com/RuchitDoshi30/DevVault/releases) |
+| 🤖 **Android** | [DevVault-v1.1.0-android.apk](https://github.com/RuchitDoshi30/DevVault/releases) |
 
 ## 🛠️ Tech Stack
 
