@@ -9,12 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://devvault.netlify.app">
-    <img src="https://img.shields.io/badge/🌐_Live_Site-devvault.netlify.app-00C7B7?style=for-the-badge" alt="Live Site">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/RuchitDoshi30/DevVault/releases">
     <img src="https://img.shields.io/badge/version-1.1.0-blue.svg" alt="Version">
   </a>
@@ -38,6 +32,8 @@
 **DevVault** is a cross-platform application that helps developers store, organize, search, and reuse high-quality development resources. Stop losing valuable code snippets, commands, and solutions in scattered notes and bookmarks.
 
 **Free • No account needed • Works 100% offline**
+
+🌐 **Live Site:** https://devvault.netlify.app
 
 ## ✨ Features
 
