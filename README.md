@@ -33,7 +33,7 @@
 
 **Free • No account needed • Works 100% offline**
 
-🌐 **Live Site:** https://devvault.netlify.app
+🌐 **Live Site:** [https://devvault.netlify.app](https://devvaultapp.netlify.app/)
 
 ## ✨ Features
 
